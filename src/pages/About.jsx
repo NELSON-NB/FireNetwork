@@ -116,7 +116,7 @@ export default function About() {
                   industrial plants, and government facilities.
                 </p>
                 <p>
-                  Today, with over 60 active clients and 350+ completed installations across
+                  Today, with over 60 active clients and 150+ completed installations across
                   Central Africa, FIRE NETWORK EQUIPMENTS INGINEERING SARL remains committed to one thing: making sure of people and properties
                    in Africa generally and Cameroon in partical .
                 </p>

@@ -368,7 +368,7 @@ export default function Home() {
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <span className="text-[#FF6B35] text-sm font-bold uppercase tracking-widest">Our Work Speaks</span>
           <h2 className="text-4xl sm:text-5xl font-black text-white mt-4 mb-6 leading-tight">
-            350+ Projects Delivered<br />Across Central Africa
+            150+ Projects Delivered<br />Across Central Africa
           </h2>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto mb-10">
             From Factories and hotels to data centers and warehouses — our systems

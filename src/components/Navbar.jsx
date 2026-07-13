@@ -39,7 +39,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3 group">
             <img
-                   src={siteLogo}
+                   src={logoLogo}
                  alt="logo"
                  className="w-[280px] h-[290px] object-contain"
                />
